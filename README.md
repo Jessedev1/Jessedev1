@@ -20,6 +20,8 @@
 <p align="left">
   <img src="https://devicon.dev/devicon.git/icons/meteor/meteor-plain.svg" alt="meteor" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
 </p>
 
 <h3 align="left">Databases</h3>
