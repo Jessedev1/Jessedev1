@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessedev&show_icons=true" alt="jessedev" /></p>
 
-<a href="https://twitter.com/MLGEditz" target="blank"><i class="far fa-envelope"></i></a>
-
+<a href="mailto:jesse@creativework.nl" target="blank"><img src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" alt="email" width="30" height="30"></a>
+<a href="https://discordapp.com/users/297036127402197003" target="blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" alt="discord" width="30" height="30"></a>
 
 
