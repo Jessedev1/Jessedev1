@@ -1,4 +1,4 @@
-<link rel="stylesheet" src="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">Java / Web Developer</h3>
@@ -48,12 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessedev&show_icons=true" alt="jessedev" /></p>
 
-<a href="https://twitter.com/netlob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="netlob" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sjoerdbolten" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sjoerdbolten" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/9107414" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9107414" height="30" width="30" /></a>
-<a href="https://instagram.com/sjoerd.netlob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sjoerd.netlob" height="30" width="30" /></a>
-<a href="https://dribbble.com/netlob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="netlob" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/netlob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="netlob" height="30" width="30" /></a>
+<a href="https://twitter.com/MLGEditz" target="blank"><i class="far fa-envelope"></i></a>
 </p>
 
 
