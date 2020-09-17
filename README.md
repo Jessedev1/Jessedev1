@@ -35,8 +35,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessedev1&layout=compact&hide=html" alt="jessedev" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessedev&show_icons=true" alt="jessedev" /></p>
 
 
