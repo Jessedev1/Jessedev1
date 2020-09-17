@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">Java / Web Developer</h3>
 
@@ -49,7 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessedev&show_icons=true" alt="jessedev" /></p>
 
 <a href="https://twitter.com/MLGEditz" target="blank"><i class="far fa-envelope"></i></a>
-</p>
 
 
 
