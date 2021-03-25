@@ -4,7 +4,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" />
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
@@ -16,7 +16,7 @@
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" alt="meteor" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40" />
@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="stripe" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="stripe" width="60" height="40" />
 </p>
 
 <h3 align="left">Software</h3>
