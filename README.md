@@ -51,7 +51,8 @@
 
 <p align="center">
   <a href="mailto:jesse@creativework.nl" target="blank"><img src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" alt="email" width="30" height="30"></a>
-  <a href="https://discordapp.com/users/297036127402197003" target="blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" alt="discord" width="30" height="30"></a>
+  <a href="https://discordapp.com/users/297036127402197003" target="blank"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="30" height="30"></a>
+  <a href="http://linkedin.com/in/jessedev" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"></a>
 </p>
 
 
