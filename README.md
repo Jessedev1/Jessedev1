@@ -3,45 +3,48 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" />
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
 </p>
 
 
-<h3 align="left">Frameworks</h3>
+<h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/meteor/meteor-plain.svg" alt="meteor" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/meteor/meteor-icon.svg" alt="meteor" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40" height="40" />
 </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/redis/redis-plain.svg" alt="redis" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40" />
 </p>
 
 
 <h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="stripe" width="40" height="40" />
 </p>
 
 <h3 align="left">Software</h3>
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessedev&show_icons=true" alt="jessedev" /></p>
